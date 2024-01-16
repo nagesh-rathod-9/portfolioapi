@@ -1,13 +1,16 @@
 <<<<<<< HEAD
 [
     {
-        "name":"Nagesh Rathod",
+        "name":"NAGESH RATHOD",
         "position":"Full Stack Web Developer",
         "instagram_link":"https://www.instagram.com/nagesh_rathod_9/?hl=en",
         "facebook_link":"https://www.facebook.com",
         "whatsapp_link":"https://wa.me/7666969836",
         "git_hub_link":"https://github.com/nagesh-rathod-9",
         "linkdin_link":"https://www.linkedin.com/in/nagesh-rathod-580383283/"
+         "logo":"logo.jpg",
+        "profile":"me.jpg",
+        "resume":"resume.jpg"
     }
 ]
 =======
